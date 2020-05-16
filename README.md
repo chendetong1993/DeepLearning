@@ -1,1 +1,1 @@
-# DeepLearning.AI
+Deep Learning related project
